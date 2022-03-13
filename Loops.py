@@ -5,9 +5,9 @@ Created on Sun Mar 13 10:12:18 2022
 @author: Mahendra Nath Reddy E
 """
 
-n=int(input())
+a=int(input())
 
-for i in range(0,n):
+for i in range(0,a):
     print(i*i)
 
 '''
